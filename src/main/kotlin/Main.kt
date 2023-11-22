@@ -1,6 +1,6 @@
+//commit - сохранение состояние проекта в системе контроля версий
 fun main() {
     println("Hi!")
     println("Здравствуйте")
     println("Что-то ещё")
-    ubugbjcnsbjhvwuieb
 }
